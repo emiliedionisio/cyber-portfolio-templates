@@ -14,7 +14,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 ✅ [3. **Cybersecurity Job Titles**](3cyber-job-titles) – List of sample of Job Titles. <br />
 ✅ [4. **Create an Excellent GitHub Profile with Markdown**](https://learn.adafruit.com/excellent-github-profile) <br /> 
 ✅ [5. **Basic Writing and Formatting Syntax**](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Create sophisticated formatting for your prose and code on GitHub with simple syntax.<br />
-✅ [6. **Cybersecurity Portfolio Tips**](cyber-tips.md) – Best practices for documenting labs & projects.  <br />
+✅ [6. **Cybersecurity Portfolio Tips**](6cyber-tips.md) – Best practices for documenting labs & projects.  <br />
 
 <!-- ✅ **GitHub README Templates** – "About Me" sections tailored for cybersecurity learners. -->
 
