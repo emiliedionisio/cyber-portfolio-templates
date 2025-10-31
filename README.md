@@ -9,7 +9,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 ## 📂 What’s Inside?
 
 
-✅ [**How to Fork a Repository**](fork-a-repo.md).<br />
+✅ [1. **How to Fork a Repository**](fork-a-repo.md).<br />
 ✅ [**Cybersecurity Job Titles**](README.md) – List of sample of Job Titles. <br />
 ✅ [**Markdown Cheatsheet**](https://www.geeksforgeeks.org/markdown-cheat-sheet-github/) – Learn how to format GitHub profiles like a pro. <br />
 ✅ [**Create an Excellent GitHub Profile with Markdown**](https://learn.adafruit.com/excellent-github-profile) <br /> 
