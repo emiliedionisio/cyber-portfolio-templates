@@ -1,4 +1,4 @@
-## 👩‍💻 Andrea Smith </br>
+# 👩‍💻 Andrea Smith </br>
 ## 🔹 Junior Cybersecurity Analyst | Future Security Professional 
 
 📌 **About Me:**  
