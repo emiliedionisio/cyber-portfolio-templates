@@ -1,5 +1,5 @@
 # 👩‍💻 Andrea Smith </br>
-## 🔹 Junior Cybersecurity Analyst | GRC | Proficient in Scrum Methodologies
+## 🔹 Junior Cybersecurity Analyst | IT Specialist | GRC | Proficient in Scrum Methodologies
 
 📌 **About Me:**  
 I am actively training to become a **Cybersecurity Analyst**, developing expertise in risk management, incident response, 
