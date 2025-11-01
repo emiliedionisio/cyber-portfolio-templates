@@ -1,5 +1,4 @@
 # 🚀 Cybersecurity Portfolio Templates
-#### Author: [@emiliedionisio](https://github.com/emiliedionisio)
 
 ## 📌 Welcome to Cybersecurity Portfolio Templates! 🎯
 
@@ -18,7 +17,6 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 ✅ [6. **Cybersecurity Portfolio Tips**](6cyber-tips.md) – Best practices for documenting labs & projects.  <br />
 
 <!-- ✅ **GitHub README Templates** – "About Me" sections tailored for cybersecurity learners. -->
-
 
 ---
 
@@ -43,3 +41,5 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 📢 **Feel free to contribute!** Submit a pull request if you have helpful templates or cybersecurity portfolio tips. 
 
 🚀 Happy Learning & Building! 🛡️
+
+## Author: [@emiliedionisio](https://github.com/emiliedionisio)
