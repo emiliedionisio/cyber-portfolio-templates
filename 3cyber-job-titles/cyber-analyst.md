@@ -1,7 +1,5 @@
-## 🔹 Junior Cybersecurity Analyst
-
-👩‍💻 Andrea Smith
-**Junior Cybersecurity Analyst | Future Security Professional**  
+#👩‍💻 Andrea Smith </br>
+## 🔹 Junior Cybersecurity Analyst | Future Security Professional 
 
 📌 **About Me:**  
 I am actively training to become a **Cybersecurity Analyst**, developing expertise in risk management, incident response, 
