@@ -1,5 +1,5 @@
 # 🚀 Cybersecurity Portfolio Templates
-### Author: [@emiliedionisio](https://github.com/emiliedionisio)
+#### Author: [@emiliedionisio](https://github.com/emiliedionisio)
 
 ## 📌 Welcome to Cybersecurity Portfolio Templates! 🎯
 
