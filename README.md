@@ -42,4 +42,4 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 🚀 Happy Learning & Building! 🛡️
 
-## Author: [@emiliedionisio](https://github.com/emiliedionisio)
+#### Author: [@emiliedionisio](https://github.com/emiliedionisio)
