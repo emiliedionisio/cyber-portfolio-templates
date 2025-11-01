@@ -208,15 +208,18 @@ All demonstrations follow **ethical hacking** principles and comply with relevan
 
 ---
 
-## 📌 Featured Repositories  
+## ⭐ Pinned Repositories  
+
+> Highlighting selected repositories that demonstrate Alison’s technical expertise and professional growth.
 
 | Repository | Description | Tools & Skills |
 |-------------|--------------|----------------|
-| [network-security-lab](https://github.com/alisonrivera/network-security-lab) | Enterprise network security architecture | pfSense, Suricata, VPN |
-| [siem-threat-detection](https://github.com/alisonrivera/siem-threat-detection) | SOC dashboards and log correlation | Splunk, Sysmon, Zeek |
-| [incident-response-ransomware](https://github.com/alisonrivera/incident-response-ransomware) | IR documentation and forensics | Volatility, Autopsy |
-| [vuln-scanner-pro](https://github.com/alisonrivera/vuln-scanner-pro) | Automated vulnerability scanner | Python, APIs |
-| [malware-analysis-emotet](https://github.com/alisonrivera/malware-analysis-emotet) | Static & dynamic malware analysis | REMnux, IDA, YARA |
+| [network-security-lab](https://github.com/alisonrivera/network-security-lab) | Enterprise network segmentation & firewall configuration | pfSense, Suricata, VPN |
+| [siem-threat-detection](https://github.com/alisonrivera/siem-threat-detection) | SOC dashboards, alerts, and correlation searches | Splunk, Sysmon, Zeek |
+| [incident-response-ransomware](https://github.com/alisonrivera/incident-response-ransomware) | Full IR case study with forensic analysis | Volatility, Autopsy, Wireshark |
+| [vuln-scanner-pro](https://github.com/alisonrivera/vuln-scanner-pro) | Automated vulnerability scanner & reporting | Python, APIs, Shodan |
+| [malware-analysis-emotet](https://github.com/alisonrivera/malware-analysis-emotet) | Static & dynamic malware analysis project | REMnux, IDA, YARA |
+| [webapp-pentest-dvwa](https://github.com/alisonrivera/webapp-pentest-dvwa) | OWASP Top 10 vulnerability testing | Burp Suite, SQLMap, ZAP |
 
 ---
 
@@ -225,6 +228,7 @@ All demonstrations follow **ethical hacking** principles and comply with relevan
 This portfolio meets TKH **Cybersecurity Portfolio Requirements & Compliance Standards**:  
 - [x] Includes professional **About Me** summary and role title  
 - [x] Organized by **Projects, Skills, and Achievements**  
+- [x] Displays **GitHub Stats and Pinned Repositories**  
 - [x] All projects contain **links, tools, and measurable results**  
 - [x] Ethical and legal disclaimer included  
 - [x] Contact section with verified LinkedIn and GitHub links  
