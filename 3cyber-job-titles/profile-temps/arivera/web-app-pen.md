@@ -30,6 +30,33 @@ This project demonstrates a complete **web application penetration test** of the
 | **Tools** | Burp Suite, OWASP ZAP, SQLMap, Nikto |
 | **Network Mode** | Localhost (isolated lab, non-internet-facing) |
 
+🧭 Scope & Methodology
+
+Scope
+
+Target: http://127.0.0.1/dvwa
+
+Testing allowed: Active and passive testing of DVWA instance
+
+Excluded: No attacks outside lab scope or external targets
+
+Approach
+
+Reconnaissance (Nikto, manual browsing)
+
+Mapping & input enumeration
+
+Automated scanning (OWASP ZAP)
+
+Manual testing & payload crafting (Burp Repeater, Intruder)
+
+Exploit validation & proof collection
+
+Risk scoring (CVSS v3.1)
+
+Documentation & remediation planning
+
+
 ### Deployment Example
 ```bash
 # Run DVWA locally
