@@ -1,7 +1,6 @@
 
 # Web Application Penetration Test — DVWA (Damn Vulnerable Web Application)
 
-**Repository:** https://github.com/alexrivera/webapp-pentest-dvwa  
 **Project type:** Hands-on web application penetration test (educational / portfolio)  
 **Skills:** Web Application Security, OWASP Top 10, Penetration Testing, Vulnerability Assessment, Risk Scoring (CVSS v3.1), Remediation Guidance  
 **Tools:** Burp Suite Pro, SQLMap, OWASP ZAP, Nikto, curl, nmap, browser DevTools, sqlmap, proxychains
