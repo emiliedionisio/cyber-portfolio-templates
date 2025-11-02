@@ -31,7 +31,7 @@ My goal is to protect organizations from evolving cyber threats through proactiv
 
 ## 🎯 Featured Projects  
 
-### 1. [**SOC Threat Detection Lab**](blob/main/3cyber-job-titles/profile-temps/arivera/siem-threat-detection.md)
+### 1. [**SOC Threat Detection Lab**](siem-threat-detection.md)
 **Skills:** SIEM Configuration, Log Analysis, Threat Detection, Data Visualization  
 
 Deployed a **Splunk-based SIEM environment** to collect, normalize, and analyze logs from multiple network endpoints.  
