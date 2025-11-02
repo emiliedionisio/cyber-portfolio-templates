@@ -374,7 +374,7 @@ All testing performed on an authorized DVWA lab instance. Never run these tests 
 
 ## Contact & Credits
 
-- **Lead tester / report author:** [Your Name]  
+- **Lead tester / report author:** [Alison Rivera]  
 - **Tools used:** Burp Suite Pro, SQLMap, OWASP ZAP, Nikto, nmap, browser DevTools  
 - **Project repo:** https://github.com/alexrivera/webapp-pentest-dvwa  
 - **References:** OWASP Top 10, CVSS v3.1 spec, official tool docs for Burp/ZAP/SQLMap/Nikto
