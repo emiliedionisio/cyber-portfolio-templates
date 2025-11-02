@@ -47,7 +47,7 @@ Created **custom correlation searches** to detect brute-force, beaconing, and la
 
 ---
 
-### 2. [**Enterprise Network Security Lab**](https://github.com/alisonrivera/network-security-lab)
+### 2. [**Enterprise Network Security Lab**](ent-network-sec.md)
 **Skills:** Network Segmentation, Firewall Configuration, IDS/IPS, VPN Setup  
 
 Designed and implemented a **segmented enterprise network** with DMZ and internal LANs protected by pfSense.  
