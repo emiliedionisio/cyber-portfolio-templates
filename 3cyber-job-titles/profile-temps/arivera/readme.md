@@ -31,7 +31,7 @@ My goal is to protect organizations from evolving cyber threats through proactiv
 
 ## 🎯 Featured Projects  
 
-### 1. [**SOC Threat Detection Lab**](https://github.com/alisonrivera/siem-threat-detection)
+### 1. [**SOC Threat Detection Lab**](https://github.com/alisonrivera/siem-threat-detection.md)
 **Skills:** SIEM Configuration, Log Analysis, Threat Detection, Data Visualization  
 
 Deployed a **Splunk-based SIEM environment** to collect, normalize, and analyze logs from multiple network endpoints.  
