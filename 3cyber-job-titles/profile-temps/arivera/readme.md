@@ -93,7 +93,7 @@ Performed forensic analysis to determine root cause and mapped adversary behavio
 
 ---
 
-### 5. [**Web Application Penetration Testing – DVWA**](https://github.com/alisonrivera/webapp-pentest-dvwa)
+### 5. [**Web Application Penetration Testing – DVWA**](web-app-pen.md)
 **Skills:** Web Security, OWASP Top 10, Exploitation  
 
 Performed a complete security assessment of **Damn Vulnerable Web App (DVWA)** to demonstrate testing methodology and risk mitigation.  
