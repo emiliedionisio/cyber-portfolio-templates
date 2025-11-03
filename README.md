@@ -35,7 +35,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 - List of Sample Cybersecurity Home Labs:
   - [HomeLab Setup with a Firewall and SIEM Solution](https://github.com/shahnitav/HomeLab-Setup)
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/)
-  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://blog.cyberwoxacademy.com/post/building-a-cybersecurity-homelab)
+  - [Setting up my Cybersecurity Detection & Monitoring Lab](https://github.com/gavinpaultech/SOC-Lab)
 - [Cybersecurity Projects for 2025](https://www.youtube.com/watch?v=76tvxUIRcrY)
 
 
