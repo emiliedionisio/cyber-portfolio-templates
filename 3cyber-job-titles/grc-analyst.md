@@ -1,4 +1,4 @@
-# 🧭 <ENTER YOUR FULL NAME>
+# 🧭 <ENTER YOUR FULL NAME> YOUR NAME
 ## ⚖️ GRC ANALYST | Risk Management | Compliance | Information Security Governance  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<your-linkedin>)
