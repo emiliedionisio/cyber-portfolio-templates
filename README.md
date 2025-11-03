@@ -32,8 +32,12 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 ### 🔗 Additional Resources:
 - [GitHub Markdown Guide](https://www.markdownguide.org/)
-- Read Me Editors
+- Read Me Editors and Generator
+  - [Editor.md](https://pandao.github.io/editor.md/en.html)
+  - [MarkLiveEdit](https://markdownlivepreview.dev/)
   - [StackEdit.io](https://stackedit.io/)
+  - [Readme.so](https://readme.so/editor)
+  - [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - List of Sample Cybersecurity Home Labs:
   - [HomeLab Setup with a Firewall and SIEM Solution](https://github.com/shahnitav/HomeLab-Setup)
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/)
