@@ -70,7 +70,7 @@ Simulated a ransomware attack in a controlled environment to practice the full i
 
 ---
 
-### 2. [**SOC Threat Detection Lab**](https://github.com/alisonrivera/soc-threat-detection)
+### 2. [**SOC Threat Detection Lab**](siem-threat-detection.md)
 **Skills:** Threat Detection, SIEM Configuration, Correlation Rules  
 
 Built a **Splunk-based SIEM** environment to detect brute force, beaconing, and lateral movement activity.  
