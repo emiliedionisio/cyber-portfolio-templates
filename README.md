@@ -15,7 +15,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 ✅ [4. **Create an Excellent GitHub Profile with Markdown**](https://learn.adafruit.com/excellent-github-profile) <br /> 
 ✅ [5. **Basic Writing and Formatting Syntax**](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Create sophisticated formatting for your prose and code on GitHub with simple syntax.<br />
 ✅ [6. **GitHub Profile README Generator**](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Create your README Profile with this Generator.<br />
-✅ [7. **Cybersecurity Portfolio Tips**](6cyber-tips.md) – Best practices for documenting labs & projects.  <br />
+✅ [7. **Cybersecurity Portfolio Tips**](7cyber-tips.md) – Best practices for documenting labs & projects.  <br />
 
 <!-- ✅ **GitHub README Templates** – "About Me" sections tailored for cybersecurity learners. -->
 
