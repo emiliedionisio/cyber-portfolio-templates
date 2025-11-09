@@ -1,4 +1,4 @@
-# 🛡️ <ENTER YOUR FULL NAME>
+# 🛡️ ENTER YOUR FULL NAME
 ## 👩‍💻 CYBERSECURITY ANALYST | Threat Detection | Incident Response | Network Defense
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<yourlinkedin>)
