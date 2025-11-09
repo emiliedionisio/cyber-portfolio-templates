@@ -1,6 +1,6 @@
 ## 🔹 Cybersecurity, Networking, and Cloud Student
 
-# 👨‍💻(male) or 👩‍💻(female) [Your Name]  
+# Your Name 
 **Cybersecurity, Networking, and Cloud Student | [Your Training School Name]**  
 
 📌 **About Me:**  
