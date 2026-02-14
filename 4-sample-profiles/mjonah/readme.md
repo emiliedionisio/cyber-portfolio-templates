@@ -24,7 +24,7 @@ Currently, I serve as a **SOC Analyst and TA**, mentoring students while detecti
 
 ## 🧠 Technical Focus  
 
-[![My Skills](https://skillicons.dev/icons?i=git,windows,kali,python,powershell,aws,azure,git,github,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,python,powershell,aws,azure,git,github,vscode,docker)](https://skillicons.dev)
 
 **Cybersecurity**  
 - SIEM (Splunk, ELK Stack, Wazuh)  
